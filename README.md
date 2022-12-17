@@ -1,4 +1,4 @@
-- 👋 Ello, I’m a cool human, call me Biscuit
+- 👋 Ello, I’m a cool human, call me Cara
 - 👀 I’m interested in programming and reading
 - 🌱 I’m currently learning how to live a life
 
